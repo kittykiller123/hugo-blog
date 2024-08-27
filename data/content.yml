@@ -1,12 +1,12 @@
 ########################## hero area ##########################
 hero:
-  title: "I'm Burton Guster"
+  title: "网友你好，我是："
 
   # animated text loop
   occupations:
-    - 'Web Developer'
-    - 'Pharmaceutical Salesman'
-    - 'Private Detective'
+    - '全世界最可笑的中间派'
+    - '末日明星警探'
+    - '无从解释的女权主义者'
 
   # hero background image
   bg_image: 'images/background.jpg'

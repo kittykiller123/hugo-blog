@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://soulsanctum.vercel.app/"
+baseURL = "https://example.com"
 title = "Port Hugo"
 theme = "port-hugo"
 
@@ -54,8 +54,8 @@ weight = 3
 copyright = "Copyright Burton Guster &copy;"
 # Meta data
 description = "Personal Portfolio"
-author = "Burton Guster"
-favicon = "images/favicon.png"
+author = "大战拖延症"
+favicon = "images/favicon.ico"
 google_analytics = "G-ABCDEFG123"
 
 
@@ -66,9 +66,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 ############################# social site ########################
 
-[[params.social]]
-icon = "fab fa-github"
-link = "https://github.com/tylerjlawson"
+
 
 [[params.social]]
 icon = "fab fa-linkedin"

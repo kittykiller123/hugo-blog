@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://example.com"
+baseURL = "https://soulsanctum.vercel.app/"
 title = "Port Hugo"
 theme = "port-hugo"
 

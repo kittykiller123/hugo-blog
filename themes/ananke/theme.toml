@@ -11,5 +11,5 @@ features = ["posts", "shortcodes", "related content", "comments"]
 min_version = "0.30.2"
 
 [author]
-  name = "Bud Parr"
+  name = "点心"
   homepage = "https://github.com/budparr"

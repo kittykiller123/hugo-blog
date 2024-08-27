@@ -1,12 +1,13 @@
 ########################## hero area ##########################
 hero:
-  title: "网友你好，我是："
+  title: "欢迎来到灵魂圣所"
 
   # animated text loop
   occupations:
-    - '全世界最可笑的中间派'
-    - '末日明星警探'
-    - '无从解释的女权主义者'
+    - '她的一只眼睛有些忧伤 是灰色的'
+    - '另一只依旧湛蓝 宛若八月群山中亘古不变的海眼'
+    - 'from 《烛烬》 '
+    
 
   # hero background image
   bg_image: 'images/background.jpg'

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://example.com"
-title = "Port Hugo"
+title = "欢迎来到灵魂圣所"
 theme = "port-hugo"
 
 ############################# Plugins ##############################
